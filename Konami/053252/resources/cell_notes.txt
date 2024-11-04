@@ -1,0 +1,124 @@
+Cell A80:
+
+# of Unit Cells: 19
+
+Cell A80 = 4DF - Quadruple D-type flip-flops
+
+Cell F62:
+
+# of Unit Cells: 8
+
+Potential Candidates:
+
+G109 - 2 input 6-wide AND-NOR gate
+G209 - 2 input 6-wide OR-NAND gate
+F114 - D-type flip-flop with (positive) set and (positive) reset
+DF1 - D-type flip-flop with (negative) set and (negative) reset
+F127 - D-type flip-flop with (negative) set and (negative) reset
+TFR - Toggle flip-flop with (positive) reset
+F314 - Toggle flip-flop with (positive) set and (positive) reset
+F317 - Toggle flip-flop with (negative) set and (negative) reset
+F327 - Toggle flip-flop with (negative) set and (negative) reset
+4SE - 4-line to 1-line data selector
+
+
+Cell C64:
+
+# of Unit Cells: 7
+
+Potential Candidates:
+
+D3N - Internal invert driver -3
+TBD3 - Internal through tri-state bus driver -3
+F112 - D-type flip-flop with (positive) reset
+F113 - D-type flip-flop with (positive) set
+F115 - D-type flip-flop with (negative) reset
+F116 - D-type flip-flop with (negative) set
+F125 - D-type flip-flop with (negative) reset
+F126 - D-type flip-flop with (negative) set
+F312 - Toggle flip-flop with (positive) reset
+F313 - Toggle flip-flop with (positive) set
+TFR1 - Toggle flip-flop with (negative) reset
+F316 - Toggle flip-flop with (negative) reset
+F325 - Toggle flip-flop with (positive) reset
+F326 - Toggle flip-flop with (negative) set
+1FA - 1-bit carry save full adder
+
+
+Cell F73:
+
+# of Unit Cells: 7
+
+Potential Candidates:
+
+D3N - Internal invert driver -3
+TBD3 - Internal through tri-state bus driver -3
+F112 - D-type flip-flop with (positive) reset
+F113 - D-type flip-flop with (positive) set
+F115 - D-type flip-flop with (negative) reset
+F116 - D-type flip-flop with (negative) set
+F125 - D-type flip-flop with (negative) reset
+F126 - D-type flip-flop with (negative) set
+F312 - Toggle flip-flop with (positive) reset
+F313 - Toggle flip-flop with (positive) set
+TFR1 - Toggle flip-flop with (negative) reset
+F316 - Toggle flip-flop with (negative) reset
+F325 - Toggle flip-flop with (positive) reset
+F326 - Toggle flip-flop with (negative) set
+1FA - 1-bit carry save full adder
+
+
+Cell L6:
+
+# of Unit Cells: 7
+
+Potential Candidates:
+
+D3N - Internal invert driver -3
+TBD3 - Internal through tri-state bus driver -3
+F112 - D-type flip-flop with (positive) reset
+F113 - D-type flip-flop with (positive) set
+F115 - D-type flip-flop with (negative) reset
+F116 - D-type flip-flop with (negative) set
+F125 - D-type flip-flop with (negative) reset
+F126 - D-type flip-flop with (negative) set
+F312 - Toggle flip-flop with (positive) reset
+F313 - Toggle flip-flop with (positive) set
+TFR1 - Toggle flip-flop with (negative) reset
+F316 - Toggle flip-flop with (negative) reset
+F325 - Toggle flip-flop with (positive) reset
+F326 - Toggle flip-flop with (negative) set
+1FA - 1-bit carry save full adder
+
+
+Cell P69:
+
+# of Unit Cells: 18
+
+P69 - P86
+
+Potential Candidates:
+
+8SE = 8-line to 1-line data selector
+8PG = 8-bit parity generator
+
+
+Cell G61:
+
+G61 - G70:
+
+# of Unit Cells: 10
+
+Potential Candidates:
+
+JKFF - J-K flip-flop
+F212 - J-K flip-flop with (positive) reset
+F213 - J-K flip-flop with (positive) set
+F215 - J-K flip-flop with (negative) reset
+F216 - J-K flip-flop with (negative) set
+F225 - J-K flip-flop with (negative) reset
+F226 - J-K flip-flop with (negative) set
+TFRE - Toggle flip-flop with (negative) enable and (positive) set
+F401 - Toggle flip-flop with (positive) enable, (positive) set, and (positive) reset
+F402 - Toggle flip-flop with (negative) enable, (negative) set, and (negative) reset
+LDFR - D-type flip-flop with reset and LSSD

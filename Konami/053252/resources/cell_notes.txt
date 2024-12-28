@@ -95,8 +95,6 @@ Cell P69:
 
 # of Unit Cells: 18
 
-P69 - P86
-
 Potential Candidates:
 
 8SE = 8-line to 1-line data selector
@@ -104,8 +102,6 @@ Potential Candidates:
 
 
 Cell G61:
-
-G61 - G70:
 
 # of Unit Cells: 10
 

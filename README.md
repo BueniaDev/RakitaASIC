@@ -6,4 +6,4 @@ Reverse engineering of custom ASICs from silicon, kinda
 |------------|-------|---|--------|----|------|
 |OKI|Konami|053252|Xexex <br> Violent Storm|Timing/IRQ controller|WIP|
 |Fujitsu|Konami|052001|Various|CPU KONAMI-1|Preparing|
-|Fujitsu|Taito|PC090OJ|Rastan|sprite engine|Preparing|
+|Fujitsu|Taito|PC090OJ|Rastan|sprite engine|WIP|

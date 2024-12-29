@@ -12,6 +12,7 @@ Potential Candidates:
 
 G109 - 2 input 6-wide AND-NOR gate
 G209 - 2 input 6-wide OR-NAND gate
+DFR - D-type flip-flop with (positive) reset
 F114 - D-type flip-flop with (positive) set and (positive) reset
 DF1 - D-type flip-flop with (negative) set and (negative) reset
 F127 - D-type flip-flop with (negative) set and (negative) reset
@@ -44,6 +45,24 @@ F326 - Toggle flip-flop with (negative) set
 
 Cell K30:
 
+# of Unit Cells: 8
+
+Potential Candidates:
+
+G109 - 2 input 6-wide AND-NOR gate
+G209 - 2 input 6-wide OR-NAND gate
+DFR - D-type flip-flop with (positive) reset
+F114 - D-type flip-flop with (positive) set and (positive) reset
+DF1 - D-type flip-flop with (negative) set and (negative) reset
+F127 - D-type flip-flop with (negative) set and (negative) reset
+TFR - Toggle flip-flop with (positive) reset
+F314 - Toggle flip-flop with (positive) set and (positive) reset
+F317 - Toggle flip-flop with (negative) set and (negative) reset
+F327 - Toggle flip-flop with (negative) set and (negative) reset
+4SE - 4-line to 1-line data selector
+
+Cell A24 / Cell E87:
+
 # of Unit Cells: 7
 
 Potential Candidates:
@@ -64,29 +83,7 @@ F325 - Toggle flip-flop with (positive) reset
 F326 - Toggle flip-flop with (negative) set
 1FA - 1-bit carry save full adder
 
-Cell E87 / Cell A24:
-
-# of Unit Cells: 7
-
-Potential Candidates:
-
-D3N - Internal invert driver -3
-TBD3 - Internal through tri-state bus driver -3
-F112 - D-type flip-flop with (positive) reset
-F113 - D-type flip-flop with (positive) set
-F115 - D-type flip-flop with (negative) reset
-F116 - D-type flip-flop with (negative) set
-F125 - D-type flip-flop with (negative) reset
-F126 - D-type flip-flop with (negative) set
-F312 - Toggle flip-flop with (positive) reset
-F313 - Toggle flip-flop with (positive) set
-TFR1 - Toggle flip-flop with (negative) reset
-F316 - Toggle flip-flop with (negative) reset
-F325 - Toggle flip-flop with (positive) reset
-F326 - Toggle flip-flop with (negative) set
-1FA - 1-bit carry save full adder
-
-Cell J36:
+Cell J29:
 
 # of Unit Cells: 10
 
@@ -103,28 +100,3 @@ TFRE - Toggle flip-flop with (negative) enable and (positive) reset
 F401 - Toggle flip-flop with (positive) enable, (positive) set, and (positive) reset
 F402 - Toggle flip-flop with (negative) enable, (negative) set, and (negative) reset
 LDFR - D-type flip-flop with reset and LSSD
-
-Cell I1:
-
-# of Unit Cells: 2
-
-Potential Candidates:
-
-2ND2 - Dual 2-input NANDs
-4NR - 4-input NOR
-2NR2 - Dual 2-input NORs
-2OR - 2-input OR
-3OR - 3-input OR
-22AR - 2-input 2-wide AND-NOR gate
-G101 - 2-1 input 2-wide AND-NOR gate
-G102 - 2-1-1 input 3-wide AND-NOR gate
-G103 - 3-1 input 2-wide AND-NOR gate
-G104 - 2-input OR into 2-1 input 2-wide AND-NOR gate
-G201 - 2-1 input 2-wide OR-NAND gate
-G202 - 2-1-1 input 3-wide OR-NAND gate
-G203 - 3-1 input 2-wide OR-NAND gate
-G204 - 2-input AND into 2-1 input 2-wide OR-NAND gate
-G205 - 2-input 2-wide OR-NAND gate
-G302 - Internal through driver -5
-G403 - Internal invert driver -5
-G404 - Internal invert driver -6

@@ -61,7 +61,7 @@ F317 - Toggle flip-flop with (negative) set and (negative) reset
 F327 - Toggle flip-flop with (negative) set and (negative) reset
 4SE - 4-line to 1-line data selector
 
-Cell A24 / Cell E87:
+Cell A4 / Cell A24 / Cell E87:
 
 # of Unit Cells: 7
 

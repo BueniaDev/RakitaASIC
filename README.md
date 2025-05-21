@@ -13,7 +13,7 @@ Reverse engineering of custom ASICs from silicon, kinda
 
 **Q: Why is this project called RakitaASIC? I mean, it IS a bit of an odd name...** 
 
-**A:** I know, I know. I kind agree with you on that. But the thing is, I have a certain tendency to name my projects after my favorite anime waifus. Specifically, this project is named in part after [this waifu](https://hitoribocchi-no-oo-seikatsu.fandom.com/wiki/Sotoka_Rakita).
+**A:** I know, I know. I kind of agree with you on that. But the thing is, I have a certain tendency to name my projects after my favorite anime waifus. Specifically, this project is named in part after [this waifu](https://hitoribocchi-no-oo-seikatsu.fandom.com/wiki/Sotoka_Rakita).
 
 
 **Q: What factors go into deciding which ASICs will be reverse-engineered?** 

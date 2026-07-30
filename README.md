@@ -7,7 +7,6 @@ Reverse engineering of custom ASICs from silicon, kinda
 |Fujitsu|Konami|052001|Various|CPU KONAMI-1|Cell identification WIP|
 |Fujitsu|Namco|C117|Namco System 1|MMU|Cell identification WIP|
 |Fujitsu|Taito|PC090OJ|Rastan|Sprite engine|Cell identification WIP|
-|OKI|Konami|053252|Xexex <br> Violent Storm|Timing/IRQ controller|Cell identification WIP|
 
 # FAQ 
 
@@ -18,7 +17,7 @@ Reverse engineering of custom ASICs from silicon, kinda
 
 **Q: What factors go into deciding which ASICs will be reverse-engineered?** 
 
-**A:** Basically, if the silicon die shot of the ASIC is available on [this site](https://siliconpr0n.org/), and nobody else has stepped up to reverse-engineer the ASIC themselves, it's fair game for me!
+**A:** Basically, if the silicon die shot of the ASIC is available on [this site](https://siliconprawn.org/), and nobody else has stepped up to reverse-engineer the ASIC themselves, it's fair game for me!
 
 
 **Q: What's your setup for decapping and imaging ASICs? I really want to know!** 
@@ -33,5 +32,5 @@ RakitaASIC is free software: you can redistribute it and/or modify it under the 
 
 # Copyright 
 
-(C) 2025 BueniaDev. This project is not affiliated in any way with Konami, Taito or any other manufacturers listed herein. Any logos, brandings or other markings featured herein are the registered trademarks of their respective owners.
+(C) 2026 BueniaDev. This project is not affiliated in any way with Konami, Taito or any other manufacturers listed herein. Any logos, brandings or other markings featured herein are the registered trademarks of their respective owners.
 
